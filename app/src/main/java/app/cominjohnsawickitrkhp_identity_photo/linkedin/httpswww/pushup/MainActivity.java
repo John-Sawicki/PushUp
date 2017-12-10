@@ -13,5 +13,6 @@ public class MainActivity extends AppCompatActivity {
     private void TestGitHub(boolean saved){
         boolean save = false;
         int i =12;
+        int j = 0;
     }
 }
